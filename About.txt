@@ -1,0 +1,13 @@
+Name: Ritchey&AI Reciprocal License
+Version: 1
+Long Identifier: Ritchey&AI Reciprocal License v1
+Short Identifier: R&AIRLv1
+Description: A reciprocal license.
+History:
+ - Project started June 10, 2024.
+ - Version 1 completed June 10, 2024.
+Author: James Daniel Marrs Ritchey
+Licensing: This project is licensed under the Ritchey Permissive License v16.
+Notes:
+ - This project was developed in part by using the tool GitHub Copilot Business.
+ - IANAL (I am not a lawyer).
